@@ -1,0 +1,79 @@
+/* Estilo global */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #2d2d2d, #1a1a1a);
+    color: #ffffff;
+    text-align: center;
+}
+
+/* Header */
+header {
+    background: #444;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    color: #f1c40f;
+}
+
+/* Main content */
+main {
+    padding: 20px;
+}
+
+.live-stream h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+}
+
+audio {
+    margin-top: 10px;
+}
+
+/* About section */
+.about {
+    margin-top: 40px;
+}
+
+.about h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+/* Social section */
+.social {
+    margin-top: 40px;
+}
+
+.social h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.social a {
+    display: inline-block;
+    margin: 5px 10px;
+    color: #f1c40f;
+    text-decoration: none;
+}
+
+.social a:hover {
+    text-decoration: underline;
+}
+
+/* Footer */
+footer {
+    background: #222;
+    padding: 10px 0;
+    margin-top: 40px;
+}
+
+footer p {
+    margin: 0;
+    font-size: 0.9rem;
+    color: #aaa;
+}
